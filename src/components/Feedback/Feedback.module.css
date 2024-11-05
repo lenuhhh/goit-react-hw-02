@@ -1,0 +1,9 @@
+.feedbackContainer {
+  margin: 60px 0;
+  font-size: 1.2em;
+}
+
+.feedbackMessage {
+  color: #333;
+  font-weight: bold;
+}

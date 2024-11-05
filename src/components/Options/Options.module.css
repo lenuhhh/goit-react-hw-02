@@ -1,0 +1,45 @@
+.optionsContainer {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.button {
+  border-radius: 4px;
+  padding: 10px;
+  color: #fff;
+  transition: background-color 0.3s;
+  border: none;
+}
+
+.goodButton {
+  background-color: steelblue;
+}
+
+.goodButton:hover {
+  background-color: slategray;
+}
+
+.neutralButton {
+  background-color: forestgreen;
+}
+
+.neutralButton:hover {
+  background-color: slategray;
+}
+
+.badButton {
+  background-color: #f44336;
+}
+
+.badButton:hover {
+  background-color: slategray;
+}
+
+.resetButton {
+  background-color: sandybrown;
+}
+
+.resetButton:hover {
+  background-color: slategray;
+}
